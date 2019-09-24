@@ -1,2 +1,2 @@
-# Rest-dnister
-Web site about active rest in the Dniester Canyon
+# rest-dniester.com.ua
+Creating web site about active rest in the Dniester Canyon
